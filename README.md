@@ -47,5 +47,5 @@ This project is licensed under the MIT License.
 ## Author
 Uzzma Saiyed
 
-## Happy Coding 👩‍💻🚀
+**Happy Coding** 👩‍💻🚀
 
