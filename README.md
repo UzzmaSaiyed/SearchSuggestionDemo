@@ -44,8 +44,8 @@ Feel free to fork this repository and submit pull requests. Contributions are we
 ## License
 This project is licensed under the MIT License.
 
-##Author
+## Author
 Uzzma Saiyed
 
-##Happy Coding 👩‍💻🚀
+## Happy Coding 👩‍💻🚀
 
